@@ -87,3 +87,5 @@ class Tea {
     }
 
 }
+
+module.exports = Tea;
