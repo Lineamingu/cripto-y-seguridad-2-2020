@@ -1,6 +1,4 @@
-# cripto-y-seguridad-2-2020
-Respositorio para la asignatura de criptografía y seguridad en redes, segundo semestre 2020. 
+cripto-y-seguridad-2-2020
+Respositorio para la asignatura de criptografía y seguridad en redes, segundo semestre 2020.
 
-Actualmente existen las ramas:
-tarea-1.
-tarea-3
+Rama tarea 3. tema: cifrado simétrico con algoritmo TEA
