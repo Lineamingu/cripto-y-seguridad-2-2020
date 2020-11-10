@@ -1,0 +1,10 @@
+archivo_1 contiene hashes md5, le sirve crack md5 (-m 0)
+archivo_2 contiene hashes md5 con salt vs1wEzivhlOPYe/1, le sirve crack md5 $pass$salt$ (-m 10)
+archivo_3 contiene hashes md5 con salt /AwFm0aPeY581c5u, le sirve crack md5 $pass$salt$ (-m 10)
+archivo_4 contiene hashes md5, le sirve crack NTLM (-m 1000) 
+archivo_5 contiene hashes sha512crypt, le sirve crack sha512crypt (-m 1800)
+
+https://www.onlinehashcrack.com/hash-identification.php
+https://www.youtube.com/watch?v=KnkjBW3fMVo
+https://en.wikipedia.org/wiki/S/MIME
+https://pypi.org/project/smime/
