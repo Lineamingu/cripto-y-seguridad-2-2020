@@ -1,7 +1,6 @@
-# cripto-y-seguridad-2-2020
-Respositorio para la asignatura de criptografía y seguridad en redes, segundo semestre 2020. 
+cripto-y-seguridad-2-2020
+Respositorio para la asignatura de criptografía y seguridad en redes, segundo semestre 2020.
 
-Actualmente existen las ramas:
-tarea-1.
-tarea-3.
-tarea-4.
+Rama tarea 5. tema: Análisis de correos electrónicos mediante expresiones regulares. 
+
+#python #imaplib #regex
